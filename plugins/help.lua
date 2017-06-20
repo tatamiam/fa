@@ -63,7 +63,7 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨سایت اصلی: Tarfand.Ir ✨
+✨ارتباط با ما: @Me_sudo_MR_FOX ✨
 </i>]]
 end
 
